@@ -2,7 +2,7 @@
 # Games Hunter
 A responsive, single-page website built with HTML and CSS, showcasing a sleek and modern design for finding your next favorite game.
 
-Live Demo ==> https://mazin-emad.github.io/Clean_UI 
+Live Demo ==> https://mazin-emad.github.io/games_hunter 
 
 # Features:
 
